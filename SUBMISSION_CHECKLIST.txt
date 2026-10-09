@@ -1,0 +1,34 @@
+IBM SKILLSBUILD FINAL SUBMISSION CHECKLIST
+
+1. Final Project Link
+   - Create a GitHub repository.
+   - Upload the project folder.
+   - Paste the GitHub URL into the form.
+
+2. Lean Canvas PDF
+   - Use docs_Lean_Canvas.pdf.
+   - Add your name/team/date if required by your institute.
+
+3. Concept Note
+   - Use Concept_Note.docx.
+   - Add your name, college, internship details and mentor details if required.
+
+4. Final Deliverable PPT
+   - Use Final_Deliverable_PPT.pptx.
+   - Add your name/college/logo if required.
+   - After running the real-data version, add actual charts/metrics.
+
+5. Final Project Screenshots
+   Capture:
+   - Project homepage
+   - Dataset loaded
+   - EDA/chart
+   - Model training/evaluation
+   - Learning-gap result
+   - Recommended quiz
+   - Final output
+   Combine screenshots into one PDF if the form accepts a PDF.
+
+IMPORTANT:
+Do not claim demo/synthetic results as real UCI results.
+For final model metrics, download the UCI MathE dataset, train the model, and replace the demo evidence.

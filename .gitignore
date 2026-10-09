@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+# Keep models/ directory tracked; do not commit large or private artifacts blindly.

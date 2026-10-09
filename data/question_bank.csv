@@ -1,0 +1,13 @@
+question_id,topic,subtopic,difficulty,question,answer,explanation
+Q001,Algebra,Equations,Basic,Solve: 2x + 6 = 14.,4,x = 4
+Q002,Algebra,Equations,Basic,Solve: 5x - 10 = 20.,6,x = 6
+Q003,Algebra,Functions,Basic,"If f(x)=2x+1, find f(3).",7,f(3)=7
+Q004,Calculus,Derivatives,Basic,What is d/dx (x²)?,2x,The derivative is 2x.
+Q005,Calculus,Derivatives,Advanced,What is d/dx (3x³ - 2x)?,9x² - 2,Differentiate term by term.
+Q006,Calculus,Integrals,Basic,∫ 2x dx = ?,x² + C,Power rule for integration.
+Q007,Statistics,Mean-Median,Basic,"Mean of 2, 4, 6, 8?",5,Sum is 20 and n is 4.
+Q008,Statistics,Distributions,Basic,Which distribution is symmetric and bell-shaped?,Normal,The normal distribution is bell-shaped.
+Q009,Geometry,Triangles,Basic,Sum of interior angles of a triangle?,180°,Triangle angle sum is 180 degrees.
+Q010,Geometry,Coordinate Geometry,Basic,"Distance between (0,0) and (3,4)?",5,Use the distance formula.
+Q011,Probability,Basic Probability,Basic,Probability of heads on a fair coin?,1/2,Two equally likely outcomes.
+Q012,Probability,Conditional Probability,Advanced,"If P(A∩B)=0.2 and P(B)=0.5, P(A|B)?",0.4,P(A|B)=P(A∩B)/P(B).

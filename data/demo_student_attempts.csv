@@ -1,0 +1,1158 @@
+Student ID,Student Country,Question ID,Type of Answer,Question Level,Topic,Subtopic,Keywords
+1,India,693,1,Basic,Calculus,Derivatives,derivatives
+1,India,96,1,Advanced,Probability,Basic Probability,basic;probability
+1,India,734,1,Basic,Calculus,Derivatives,derivatives
+1,India,285,1,Basic,Probability,Conditional Probability,conditional;probability
+1,India,160,0,Advanced,Algebra,Equations,equations
+1,India,100,1,Basic,Calculus,Integrals,integrals
+1,India,748,0,Advanced,Statistics,Distributions,distributions
+1,India,301,1,Advanced,Geometry,Triangles,triangles
+1,India,47,1,Basic,Probability,Conditional Probability,conditional;probability
+1,India,104,0,Basic,Calculus,Integrals,integrals
+1,India,374,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+1,India,274,1,Advanced,Calculus,Integrals,integrals
+2,Other,277,1,Basic,Probability,Basic Probability,basic;probability
+2,Other,795,0,Advanced,Probability,Basic Probability,basic;probability
+2,Other,411,0,Basic,Algebra,Equations,equations
+2,Other,581,0,Basic,Statistics,Mean-Median,mean-median
+2,Other,659,1,Advanced,Statistics,Mean-Median,mean-median
+2,Other,763,1,Advanced,Geometry,Triangles,triangles
+2,Other,409,0,Advanced,Probability,Conditional Probability,conditional;probability
+2,Other,94,1,Basic,Statistics,Mean-Median,mean-median
+2,Other,812,0,Basic,Algebra,Equations,equations
+2,Other,480,1,Advanced,Geometry,Triangles,triangles
+3,Brazil,446,1,Advanced,Algebra,Functions,functions
+3,Brazil,737,0,Basic,Calculus,Integrals,integrals
+3,Brazil,306,0,Basic,Statistics,Mean-Median,mean-median
+3,Brazil,166,1,Basic,Probability,Basic Probability,basic;probability
+3,Brazil,115,0,Advanced,Probability,Basic Probability,basic;probability
+3,Brazil,581,1,Basic,Statistics,Distributions,distributions
+3,Brazil,779,0,Advanced,Algebra,Equations,equations
+3,Brazil,563,0,Basic,Probability,Basic Probability,basic;probability
+4,Brazil,688,0,Advanced,Calculus,Derivatives,derivatives
+4,Brazil,231,1,Advanced,Statistics,Distributions,distributions
+4,Brazil,236,1,Basic,Algebra,Functions,functions
+4,Brazil,647,1,Basic,Probability,Basic Probability,basic;probability
+4,Brazil,339,0,Basic,Algebra,Equations,equations
+4,Brazil,220,0,Advanced,Algebra,Equations,equations
+4,Brazil,485,1,Advanced,Probability,Basic Probability,basic;probability
+4,Brazil,442,1,Basic,Geometry,Triangles,triangles
+4,Brazil,747,1,Advanced,Statistics,Distributions,distributions
+4,Brazil,348,1,Basic,Algebra,Equations,equations
+4,Brazil,460,1,Basic,Algebra,Equations,equations
+4,Brazil,256,1,Basic,Calculus,Integrals,integrals
+4,Brazil,554,1,Basic,Algebra,Functions,functions
+4,Brazil,498,1,Basic,Algebra,Equations,equations
+5,Portugal,400,1,Advanced,Algebra,Equations,equations
+5,Portugal,749,1,Advanced,Statistics,Distributions,distributions
+5,Portugal,223,1,Basic,Probability,Conditional Probability,conditional;probability
+5,Portugal,599,1,Advanced,Algebra,Equations,equations
+5,Portugal,83,0,Basic,Geometry,Triangles,triangles
+5,Portugal,241,1,Basic,Calculus,Derivatives,derivatives
+5,Portugal,41,0,Basic,Geometry,Triangles,triangles
+5,Portugal,579,0,Advanced,Probability,Basic Probability,basic;probability
+5,Portugal,734,1,Advanced,Probability,Conditional Probability,conditional;probability
+5,Portugal,688,1,Advanced,Statistics,Mean-Median,mean-median
+5,Portugal,75,0,Advanced,Statistics,Distributions,distributions
+5,Portugal,219,1,Basic,Algebra,Functions,functions
+5,Portugal,71,0,Basic,Probability,Conditional Probability,conditional;probability
+5,Portugal,557,1,Advanced,Calculus,Integrals,integrals
+6,Other,138,0,Basic,Probability,Conditional Probability,conditional;probability
+6,Other,160,0,Basic,Statistics,Mean-Median,mean-median
+6,Other,209,0,Basic,Statistics,Distributions,distributions
+6,Other,53,0,Advanced,Statistics,Distributions,distributions
+6,Other,342,1,Advanced,Algebra,Functions,functions
+6,Other,565,1,Basic,Calculus,Integrals,integrals
+6,Other,708,1,Basic,Geometry,Triangles,triangles
+6,Other,152,0,Advanced,Calculus,Derivatives,derivatives
+7,Portugal,216,0,Basic,Statistics,Distributions,distributions
+7,Portugal,417,0,Advanced,Calculus,Derivatives,derivatives
+7,Portugal,820,0,Basic,Probability,Basic Probability,basic;probability
+7,Portugal,341,1,Basic,Calculus,Integrals,integrals
+7,Portugal,719,1,Advanced,Geometry,Triangles,triangles
+7,Portugal,228,0,Basic,Algebra,Functions,functions
+7,Portugal,815,1,Advanced,Calculus,Integrals,integrals
+7,Portugal,409,1,Basic,Calculus,Derivatives,derivatives
+8,Brazil,550,0,Advanced,Statistics,Distributions,distributions
+8,Brazil,268,0,Basic,Statistics,Mean-Median,mean-median
+8,Brazil,445,1,Basic,Calculus,Integrals,integrals
+8,Brazil,524,0,Advanced,Statistics,Distributions,distributions
+8,Brazil,726,1,Basic,Algebra,Functions,functions
+8,Brazil,72,1,Basic,Geometry,Triangles,triangles
+8,Brazil,308,0,Basic,Statistics,Distributions,distributions
+8,Brazil,714,1,Advanced,Probability,Conditional Probability,conditional;probability
+8,Brazil,389,1,Basic,Statistics,Mean-Median,mean-median
+9,Other,441,1,Advanced,Geometry,Triangles,triangles
+9,Other,692,1,Advanced,Probability,Conditional Probability,conditional;probability
+9,Other,291,0,Basic,Calculus,Integrals,integrals
+9,Other,770,0,Basic,Probability,Conditional Probability,conditional;probability
+9,Other,151,0,Basic,Calculus,Integrals,integrals
+9,Other,626,0,Basic,Algebra,Equations,equations
+9,Other,590,0,Advanced,Algebra,Functions,functions
+9,Other,152,0,Advanced,Calculus,Integrals,integrals
+9,Other,824,1,Advanced,Algebra,Equations,equations
+9,Other,125,1,Basic,Probability,Conditional Probability,conditional;probability
+9,Other,573,0,Advanced,Geometry,Triangles,triangles
+9,Other,737,0,Advanced,Probability,Conditional Probability,conditional;probability
+10,Spain,254,1,Advanced,Calculus,Integrals,integrals
+10,Spain,80,1,Basic,Statistics,Distributions,distributions
+10,Spain,554,1,Advanced,Statistics,Mean-Median,mean-median
+10,Spain,711,1,Basic,Algebra,Equations,equations
+10,Spain,339,1,Basic,Calculus,Derivatives,derivatives
+10,Spain,431,1,Advanced,Probability,Conditional Probability,conditional;probability
+10,Spain,361,1,Advanced,Geometry,Triangles,triangles
+10,Spain,753,1,Advanced,Statistics,Distributions,distributions
+10,Spain,447,1,Advanced,Probability,Basic Probability,basic;probability
+10,Spain,696,1,Advanced,Geometry,Triangles,triangles
+10,Spain,638,0,Advanced,Geometry,Triangles,triangles
+10,Spain,679,0,Advanced,Probability,Basic Probability,basic;probability
+10,Spain,473,1,Advanced,Algebra,Equations,equations
+10,Spain,217,1,Advanced,Calculus,Derivatives,derivatives
+10,Spain,389,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+11,Spain,54,1,Basic,Algebra,Functions,functions
+11,Spain,668,0,Basic,Statistics,Mean-Median,mean-median
+11,Spain,21,1,Basic,Algebra,Equations,equations
+11,Spain,686,1,Basic,Probability,Basic Probability,basic;probability
+11,Spain,786,0,Advanced,Algebra,Equations,equations
+11,Spain,168,0,Basic,Statistics,Mean-Median,mean-median
+11,Spain,590,0,Basic,Statistics,Mean-Median,mean-median
+11,Spain,708,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+11,Spain,615,0,Advanced,Calculus,Derivatives,derivatives
+11,Spain,678,1,Advanced,Algebra,Equations,equations
+11,Spain,431,1,Advanced,Statistics,Mean-Median,mean-median
+11,Spain,651,0,Advanced,Geometry,Triangles,triangles
+12,Portugal,749,1,Advanced,Calculus,Integrals,integrals
+12,Portugal,89,0,Advanced,Probability,Conditional Probability,conditional;probability
+12,Portugal,584,1,Basic,Statistics,Distributions,distributions
+12,Portugal,333,1,Advanced,Probability,Conditional Probability,conditional;probability
+12,Portugal,265,1,Basic,Calculus,Integrals,integrals
+12,Portugal,530,0,Advanced,Statistics,Distributions,distributions
+12,Portugal,501,1,Basic,Calculus,Derivatives,derivatives
+12,Portugal,503,0,Advanced,Probability,Basic Probability,basic;probability
+12,Portugal,415,1,Basic,Geometry,Triangles,triangles
+12,Portugal,544,1,Advanced,Calculus,Integrals,integrals
+12,Portugal,465,1,Advanced,Statistics,Distributions,distributions
+12,Portugal,739,1,Advanced,Statistics,Distributions,distributions
+12,Portugal,781,1,Basic,Calculus,Integrals,integrals
+12,Portugal,284,1,Basic,Calculus,Derivatives,derivatives
+13,Other,184,1,Advanced,Algebra,Equations,equations
+13,Other,56,1,Basic,Statistics,Mean-Median,mean-median
+13,Other,771,0,Basic,Probability,Conditional Probability,conditional;probability
+13,Other,481,1,Basic,Geometry,Triangles,triangles
+13,Other,53,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+13,Other,411,0,Basic,Statistics,Distributions,distributions
+13,Other,831,1,Basic,Geometry,Triangles,triangles
+13,Other,122,0,Basic,Probability,Conditional Probability,conditional;probability
+13,Other,390,0,Basic,Probability,Conditional Probability,conditional;probability
+13,Other,440,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+13,Other,213,0,Basic,Statistics,Mean-Median,mean-median
+13,Other,178,1,Basic,Calculus,Integrals,integrals
+14,India,482,0,Advanced,Algebra,Functions,functions
+14,India,290,1,Basic,Statistics,Mean-Median,mean-median
+14,India,807,0,Basic,Geometry,Triangles,triangles
+14,India,231,1,Advanced,Probability,Basic Probability,basic;probability
+14,India,170,1,Basic,Calculus,Integrals,integrals
+14,India,706,1,Advanced,Statistics,Distributions,distributions
+14,India,506,1,Advanced,Statistics,Distributions,distributions
+14,India,753,0,Basic,Geometry,Triangles,triangles
+14,India,691,1,Basic,Statistics,Distributions,distributions
+14,India,782,0,Advanced,Probability,Basic Probability,basic;probability
+15,Spain,504,0,Advanced,Statistics,Mean-Median,mean-median
+15,Spain,329,1,Advanced,Algebra,Functions,functions
+15,Spain,508,1,Advanced,Algebra,Equations,equations
+15,Spain,323,1,Basic,Statistics,Distributions,distributions
+15,Spain,414,0,Basic,Statistics,Distributions,distributions
+15,Spain,193,1,Advanced,Probability,Basic Probability,basic;probability
+15,Spain,779,0,Advanced,Probability,Conditional Probability,conditional;probability
+15,Spain,295,1,Advanced,Algebra,Equations,equations
+15,Spain,646,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+15,Spain,15,1,Basic,Probability,Basic Probability,basic;probability
+15,Spain,117,1,Basic,Probability,Conditional Probability,conditional;probability
+15,Spain,734,1,Basic,Geometry,Triangles,triangles
+15,Spain,484,0,Advanced,Statistics,Distributions,distributions
+15,Spain,614,1,Basic,Calculus,Integrals,integrals
+15,Spain,809,1,Basic,Probability,Basic Probability,basic;probability
+16,Brazil,594,0,Advanced,Algebra,Functions,functions
+16,Brazil,354,0,Advanced,Geometry,Triangles,triangles
+16,Brazil,194,0,Advanced,Statistics,Distributions,distributions
+16,Brazil,421,0,Basic,Calculus,Integrals,integrals
+16,Brazil,831,0,Advanced,Algebra,Functions,functions
+16,Brazil,38,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+16,Brazil,451,0,Basic,Calculus,Integrals,integrals
+16,Brazil,420,1,Basic,Algebra,Functions,functions
+16,Brazil,272,0,Advanced,Calculus,Derivatives,derivatives
+16,Brazil,691,0,Basic,Statistics,Distributions,distributions
+16,Brazil,778,0,Advanced,Probability,Conditional Probability,conditional;probability
+16,Brazil,701,1,Basic,Geometry,Triangles,triangles
+17,Portugal,711,1,Basic,Geometry,Triangles,triangles
+17,Portugal,58,1,Basic,Statistics,Mean-Median,mean-median
+17,Portugal,251,0,Advanced,Statistics,Distributions,distributions
+17,Portugal,81,1,Basic,Probability,Conditional Probability,conditional;probability
+17,Portugal,598,1,Basic,Probability,Conditional Probability,conditional;probability
+17,Portugal,471,0,Advanced,Calculus,Derivatives,derivatives
+17,Portugal,694,0,Advanced,Statistics,Mean-Median,mean-median
+17,Portugal,354,1,Basic,Probability,Basic Probability,basic;probability
+17,Portugal,468,0,Advanced,Probability,Conditional Probability,conditional;probability
+18,Portugal,368,1,Basic,Geometry,Triangles,triangles
+18,Portugal,675,1,Advanced,Probability,Conditional Probability,conditional;probability
+18,Portugal,703,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+18,Portugal,236,0,Advanced,Algebra,Functions,functions
+18,Portugal,636,1,Basic,Probability,Conditional Probability,conditional;probability
+18,Portugal,662,0,Basic,Statistics,Mean-Median,mean-median
+18,Portugal,374,1,Advanced,Algebra,Functions,functions
+18,Portugal,426,1,Advanced,Calculus,Derivatives,derivatives
+18,Portugal,375,0,Basic,Calculus,Derivatives,derivatives
+18,Portugal,494,1,Basic,Probability,Conditional Probability,conditional;probability
+18,Portugal,78,1,Basic,Statistics,Distributions,distributions
+18,Portugal,824,0,Advanced,Calculus,Derivatives,derivatives
+18,Portugal,15,0,Basic,Probability,Conditional Probability,conditional;probability
+18,Portugal,767,0,Advanced,Statistics,Mean-Median,mean-median
+19,Other,635,1,Basic,Statistics,Mean-Median,mean-median
+19,Other,651,1,Basic,Probability,Conditional Probability,conditional;probability
+19,Other,47,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+19,Other,241,1,Advanced,Algebra,Functions,functions
+19,Other,687,1,Advanced,Probability,Basic Probability,basic;probability
+19,Other,671,0,Basic,Probability,Conditional Probability,conditional;probability
+19,Other,287,0,Advanced,Algebra,Functions,functions
+19,Other,242,1,Basic,Algebra,Functions,functions
+19,Other,661,0,Advanced,Statistics,Mean-Median,mean-median
+19,Other,126,1,Advanced,Statistics,Mean-Median,mean-median
+19,Other,612,1,Basic,Geometry,Triangles,triangles
+19,Other,129,1,Advanced,Algebra,Equations,equations
+19,Other,568,0,Basic,Probability,Basic Probability,basic;probability
+19,Other,152,1,Basic,Calculus,Derivatives,derivatives
+20,India,113,0,Advanced,Calculus,Derivatives,derivatives
+20,India,808,1,Basic,Algebra,Equations,equations
+20,India,54,1,Basic,Calculus,Integrals,integrals
+20,India,488,1,Basic,Calculus,Integrals,integrals
+20,India,227,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+20,India,32,0,Advanced,Probability,Basic Probability,basic;probability
+20,India,111,1,Advanced,Algebra,Functions,functions
+20,India,330,0,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+20,India,640,1,Basic,Probability,Basic Probability,basic;probability
+20,India,544,0,Advanced,Probability,Conditional Probability,conditional;probability
+20,India,719,1,Advanced,Statistics,Distributions,distributions
+20,India,234,1,Advanced,Algebra,Equations,equations
+21,Brazil,321,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+21,Brazil,486,1,Basic,Statistics,Distributions,distributions
+21,Brazil,99,1,Basic,Algebra,Equations,equations
+21,Brazil,576,1,Basic,Statistics,Mean-Median,mean-median
+21,Brazil,682,1,Basic,Probability,Conditional Probability,conditional;probability
+21,Brazil,361,0,Advanced,Geometry,Triangles,triangles
+21,Brazil,230,1,Basic,Algebra,Equations,equations
+21,Brazil,286,1,Advanced,Algebra,Functions,functions
+21,Brazil,786,0,Advanced,Probability,Basic Probability,basic;probability
+21,Brazil,280,1,Advanced,Probability,Basic Probability,basic;probability
+21,Brazil,147,1,Advanced,Statistics,Distributions,distributions
+21,Brazil,649,1,Basic,Probability,Conditional Probability,conditional;probability
+21,Brazil,465,1,Basic,Algebra,Equations,equations
+21,Brazil,333,1,Advanced,Statistics,Mean-Median,mean-median
+21,Brazil,773,1,Basic,Probability,Basic Probability,basic;probability
+22,India,453,1,Advanced,Statistics,Distributions,distributions
+22,India,117,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+22,India,695,1,Basic,Statistics,Distributions,distributions
+22,India,405,1,Advanced,Probability,Conditional Probability,conditional;probability
+22,India,217,1,Basic,Probability,Basic Probability,basic;probability
+22,India,8,1,Advanced,Calculus,Integrals,integrals
+22,India,546,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+22,India,760,1,Basic,Calculus,Integrals,integrals
+22,India,80,1,Basic,Algebra,Functions,functions
+23,Other,415,1,Advanced,Probability,Conditional Probability,conditional;probability
+23,Other,633,0,Basic,Algebra,Functions,functions
+23,Other,109,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+23,Other,406,1,Advanced,Calculus,Integrals,integrals
+23,Other,173,1,Basic,Statistics,Distributions,distributions
+23,Other,358,0,Basic,Algebra,Equations,equations
+23,Other,263,1,Basic,Statistics,Mean-Median,mean-median
+23,Other,672,1,Basic,Calculus,Derivatives,derivatives
+23,Other,578,1,Advanced,Algebra,Equations,equations
+23,Other,643,0,Advanced,Probability,Conditional Probability,conditional;probability
+23,Other,453,1,Advanced,Statistics,Mean-Median,mean-median
+23,Other,76,1,Basic,Statistics,Distributions,distributions
+23,Other,378,1,Advanced,Statistics,Distributions,distributions
+23,Other,520,0,Basic,Statistics,Mean-Median,mean-median
+24,Spain,514,0,Advanced,Geometry,Triangles,triangles
+24,Spain,352,1,Advanced,Calculus,Derivatives,derivatives
+24,Spain,449,1,Basic,Algebra,Equations,equations
+24,Spain,290,0,Advanced,Geometry,Triangles,triangles
+24,Spain,54,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+24,Spain,695,1,Advanced,Statistics,Mean-Median,mean-median
+24,Spain,673,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+24,Spain,680,1,Advanced,Probability,Basic Probability,basic;probability
+25,Brazil,386,1,Basic,Geometry,Triangles,triangles
+25,Brazil,434,1,Basic,Statistics,Mean-Median,mean-median
+25,Brazil,185,1,Basic,Probability,Conditional Probability,conditional;probability
+25,Brazil,141,1,Advanced,Calculus,Integrals,integrals
+25,Brazil,104,0,Advanced,Calculus,Derivatives,derivatives
+25,Brazil,633,0,Advanced,Probability,Basic Probability,basic;probability
+25,Brazil,710,1,Basic,Calculus,Integrals,integrals
+25,Brazil,374,1,Advanced,Probability,Basic Probability,basic;probability
+25,Brazil,803,0,Advanced,Calculus,Integrals,integrals
+25,Brazil,829,1,Basic,Geometry,Triangles,triangles
+25,Brazil,585,0,Advanced,Geometry,Triangles,triangles
+25,Brazil,515,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+26,Spain,493,1,Advanced,Calculus,Derivatives,derivatives
+26,Spain,782,1,Basic,Statistics,Mean-Median,mean-median
+26,Spain,151,0,Advanced,Calculus,Integrals,integrals
+26,Spain,358,0,Basic,Geometry,Triangles,triangles
+26,Spain,383,1,Basic,Algebra,Functions,functions
+26,Spain,29,1,Basic,Calculus,Integrals,integrals
+26,Spain,141,0,Advanced,Statistics,Mean-Median,mean-median
+26,Spain,143,0,Advanced,Algebra,Functions,functions
+26,Spain,20,0,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+26,Spain,745,1,Basic,Statistics,Mean-Median,mean-median
+27,Other,49,1,Basic,Algebra,Functions,functions
+27,Other,512,1,Advanced,Calculus,Integrals,integrals
+27,Other,299,0,Basic,Probability,Basic Probability,basic;probability
+27,Other,427,1,Advanced,Geometry,Triangles,triangles
+27,Other,539,1,Advanced,Calculus,Derivatives,derivatives
+27,Other,45,0,Advanced,Probability,Basic Probability,basic;probability
+27,Other,366,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+27,Other,644,1,Basic,Algebra,Functions,functions
+27,Other,560,1,Basic,Algebra,Functions,functions
+27,Other,491,0,Advanced,Statistics,Mean-Median,mean-median
+27,Other,469,1,Basic,Calculus,Derivatives,derivatives
+27,Other,205,1,Basic,Algebra,Functions,functions
+27,Other,557,1,Advanced,Algebra,Functions,functions
+27,Other,196,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+28,Brazil,448,0,Basic,Statistics,Distributions,distributions
+28,Brazil,192,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+28,Brazil,532,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+28,Brazil,617,1,Advanced,Statistics,Mean-Median,mean-median
+28,Brazil,336,1,Advanced,Calculus,Integrals,integrals
+28,Brazil,437,0,Advanced,Statistics,Distributions,distributions
+28,Brazil,745,1,Advanced,Calculus,Integrals,integrals
+28,Brazil,811,0,Advanced,Statistics,Distributions,distributions
+29,India,623,1,Basic,Statistics,Mean-Median,mean-median
+29,India,798,1,Basic,Geometry,Triangles,triangles
+29,India,34,0,Advanced,Statistics,Distributions,distributions
+29,India,381,0,Advanced,Probability,Basic Probability,basic;probability
+29,India,408,1,Basic,Geometry,Triangles,triangles
+29,India,27,0,Basic,Statistics,Distributions,distributions
+29,India,121,0,Advanced,Calculus,Integrals,integrals
+29,India,627,1,Advanced,Statistics,Distributions,distributions
+29,India,76,1,Basic,Statistics,Distributions,distributions
+29,India,830,0,Advanced,Geometry,Triangles,triangles
+29,India,298,1,Basic,Statistics,Distributions,distributions
+29,India,521,0,Basic,Statistics,Mean-Median,mean-median
+29,India,243,0,Basic,Calculus,Derivatives,derivatives
+29,India,378,0,Advanced,Geometry,Triangles,triangles
+30,Other,735,1,Basic,Probability,Basic Probability,basic;probability
+30,Other,76,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+30,Other,697,1,Basic,Calculus,Integrals,integrals
+30,Other,799,0,Basic,Probability,Conditional Probability,conditional;probability
+30,Other,57,1,Basic,Probability,Basic Probability,basic;probability
+30,Other,331,1,Advanced,Algebra,Equations,equations
+30,Other,257,0,Advanced,Calculus,Integrals,integrals
+30,Other,630,1,Basic,Calculus,Integrals,integrals
+30,Other,595,1,Basic,Probability,Basic Probability,basic;probability
+30,Other,578,0,Advanced,Calculus,Derivatives,derivatives
+31,India,427,0,Basic,Algebra,Functions,functions
+31,India,559,0,Advanced,Probability,Basic Probability,basic;probability
+31,India,827,1,Advanced,Statistics,Distributions,distributions
+31,India,62,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+31,India,209,1,Advanced,Calculus,Integrals,integrals
+31,India,327,0,Advanced,Statistics,Mean-Median,mean-median
+31,India,528,1,Basic,Statistics,Distributions,distributions
+31,India,126,1,Advanced,Probability,Basic Probability,basic;probability
+31,India,52,1,Basic,Statistics,Distributions,distributions
+32,Spain,739,0,Advanced,Calculus,Derivatives,derivatives
+32,Spain,528,1,Basic,Statistics,Mean-Median,mean-median
+32,Spain,93,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+32,Spain,362,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+32,Spain,670,1,Advanced,Algebra,Equations,equations
+32,Spain,442,0,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+32,Spain,375,0,Advanced,Calculus,Integrals,integrals
+32,Spain,200,1,Basic,Algebra,Functions,functions
+32,Spain,462,1,Basic,Statistics,Distributions,distributions
+32,Spain,100,1,Basic,Probability,Conditional Probability,conditional;probability
+32,Spain,375,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+32,Spain,47,1,Advanced,Calculus,Derivatives,derivatives
+32,Spain,532,0,Advanced,Algebra,Equations,equations
+32,Spain,628,1,Basic,Geometry,Triangles,triangles
+33,Portugal,522,1,Advanced,Probability,Conditional Probability,conditional;probability
+33,Portugal,18,1,Advanced,Probability,Conditional Probability,conditional;probability
+33,Portugal,598,0,Basic,Statistics,Distributions,distributions
+33,Portugal,672,1,Advanced,Statistics,Mean-Median,mean-median
+33,Portugal,175,1,Basic,Probability,Basic Probability,basic;probability
+33,Portugal,249,0,Basic,Probability,Conditional Probability,conditional;probability
+33,Portugal,322,1,Basic,Algebra,Equations,equations
+33,Portugal,421,0,Advanced,Geometry,Triangles,triangles
+33,Portugal,532,1,Basic,Probability,Conditional Probability,conditional;probability
+33,Portugal,322,1,Advanced,Calculus,Integrals,integrals
+33,Portugal,693,1,Advanced,Calculus,Integrals,integrals
+33,Portugal,286,0,Basic,Statistics,Distributions,distributions
+33,Portugal,305,0,Basic,Probability,Conditional Probability,conditional;probability
+33,Portugal,358,1,Advanced,Statistics,Mean-Median,mean-median
+34,Brazil,792,0,Advanced,Algebra,Functions,functions
+34,Brazil,732,1,Basic,Calculus,Integrals,integrals
+34,Brazil,766,0,Advanced,Algebra,Functions,functions
+34,Brazil,278,0,Basic,Geometry,Triangles,triangles
+34,Brazil,759,1,Basic,Probability,Conditional Probability,conditional;probability
+34,Brazil,544,1,Basic,Probability,Basic Probability,basic;probability
+34,Brazil,339,1,Basic,Calculus,Derivatives,derivatives
+34,Brazil,564,1,Basic,Geometry,Triangles,triangles
+34,Brazil,205,1,Advanced,Calculus,Integrals,integrals
+34,Brazil,788,0,Advanced,Statistics,Distributions,distributions
+34,Brazil,180,0,Basic,Algebra,Equations,equations
+34,Brazil,407,0,Basic,Geometry,Triangles,triangles
+35,Portugal,110,0,Advanced,Algebra,Equations,equations
+35,Portugal,557,0,Advanced,Statistics,Distributions,distributions
+35,Portugal,480,0,Basic,Probability,Conditional Probability,conditional;probability
+35,Portugal,749,1,Basic,Statistics,Mean-Median,mean-median
+35,Portugal,346,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+35,Portugal,655,1,Basic,Statistics,Mean-Median,mean-median
+35,Portugal,686,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+35,Portugal,255,1,Basic,Algebra,Equations,equations
+35,Portugal,772,1,Advanced,Algebra,Functions,functions
+35,Portugal,587,0,Advanced,Statistics,Distributions,distributions
+35,Portugal,64,0,Advanced,Algebra,Functions,functions
+35,Portugal,703,1,Advanced,Algebra,Functions,functions
+36,Brazil,137,1,Basic,Statistics,Distributions,distributions
+36,Brazil,621,0,Advanced,Geometry,Triangles,triangles
+36,Brazil,822,0,Advanced,Statistics,Distributions,distributions
+36,Brazil,541,1,Basic,Calculus,Derivatives,derivatives
+36,Brazil,561,1,Basic,Statistics,Mean-Median,mean-median
+36,Brazil,533,1,Basic,Probability,Basic Probability,basic;probability
+36,Brazil,501,1,Basic,Geometry,Triangles,triangles
+36,Brazil,526,1,Basic,Algebra,Functions,functions
+36,Brazil,689,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+37,India,47,0,Basic,Statistics,Mean-Median,mean-median
+37,India,62,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+37,India,185,1,Basic,Algebra,Functions,functions
+37,India,392,0,Advanced,Calculus,Integrals,integrals
+37,India,678,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+37,India,551,1,Advanced,Probability,Basic Probability,basic;probability
+37,India,775,0,Basic,Geometry,Triangles,triangles
+37,India,558,0,Advanced,Algebra,Functions,functions
+37,India,355,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+37,India,743,0,Basic,Calculus,Integrals,integrals
+37,India,17,0,Advanced,Algebra,Equations,equations
+37,India,35,1,Basic,Calculus,Derivatives,derivatives
+37,India,412,1,Basic,Geometry,Triangles,triangles
+37,India,795,1,Basic,Geometry,Triangles,triangles
+38,Portugal,147,1,Advanced,Calculus,Integrals,integrals
+38,Portugal,63,1,Advanced,Probability,Basic Probability,basic;probability
+38,Portugal,49,0,Advanced,Probability,Basic Probability,basic;probability
+38,Portugal,419,0,Advanced,Statistics,Distributions,distributions
+38,Portugal,551,1,Advanced,Calculus,Integrals,integrals
+38,Portugal,725,1,Basic,Geometry,Triangles,triangles
+38,Portugal,427,1,Basic,Calculus,Integrals,integrals
+38,Portugal,209,1,Advanced,Probability,Basic Probability,basic;probability
+38,Portugal,95,0,Advanced,Statistics,Mean-Median,mean-median
+38,Portugal,690,1,Basic,Probability,Basic Probability,basic;probability
+38,Portugal,780,1,Basic,Probability,Basic Probability,basic;probability
+38,Portugal,341,1,Advanced,Probability,Basic Probability,basic;probability
+39,India,713,0,Advanced,Calculus,Derivatives,derivatives
+39,India,566,0,Advanced,Probability,Basic Probability,basic;probability
+39,India,665,0,Advanced,Statistics,Distributions,distributions
+39,India,510,0,Advanced,Statistics,Distributions,distributions
+39,India,328,0,Advanced,Geometry,Triangles,triangles
+39,India,577,1,Advanced,Calculus,Integrals,integrals
+39,India,599,1,Basic,Calculus,Derivatives,derivatives
+39,India,338,1,Advanced,Probability,Conditional Probability,conditional;probability
+39,India,671,1,Basic,Calculus,Integrals,integrals
+39,India,658,0,Advanced,Statistics,Distributions,distributions
+39,India,361,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+40,Portugal,77,0,Basic,Calculus,Derivatives,derivatives
+40,Portugal,646,1,Advanced,Algebra,Equations,equations
+40,Portugal,518,1,Basic,Calculus,Derivatives,derivatives
+40,Portugal,683,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+40,Portugal,545,1,Advanced,Probability,Conditional Probability,conditional;probability
+40,Portugal,740,1,Basic,Probability,Conditional Probability,conditional;probability
+40,Portugal,715,1,Basic,Statistics,Distributions,distributions
+40,Portugal,537,0,Basic,Geometry,Triangles,triangles
+40,Portugal,259,0,Basic,Calculus,Derivatives,derivatives
+40,Portugal,416,1,Advanced,Statistics,Distributions,distributions
+40,Portugal,83,1,Basic,Geometry,Triangles,triangles
+40,Portugal,566,1,Advanced,Algebra,Equations,equations
+40,Portugal,85,1,Basic,Geometry,Triangles,triangles
+40,Portugal,98,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+40,Portugal,709,1,Basic,Probability,Basic Probability,basic;probability
+41,Spain,578,0,Advanced,Algebra,Equations,equations
+41,Spain,213,1,Advanced,Algebra,Equations,equations
+41,Spain,307,0,Advanced,Probability,Basic Probability,basic;probability
+41,Spain,554,0,Advanced,Calculus,Derivatives,derivatives
+41,Spain,706,0,Basic,Statistics,Distributions,distributions
+41,Spain,238,1,Basic,Algebra,Functions,functions
+41,Spain,335,0,Advanced,Algebra,Functions,functions
+41,Spain,365,1,Advanced,Algebra,Functions,functions
+41,Spain,600,1,Advanced,Probability,Conditional Probability,conditional;probability
+41,Spain,731,0,Advanced,Geometry,Triangles,triangles
+41,Spain,729,1,Advanced,Algebra,Equations,equations
+41,Spain,94,1,Advanced,Calculus,Integrals,integrals
+42,Brazil,192,1,Basic,Statistics,Distributions,distributions
+42,Brazil,92,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+42,Brazil,13,0,Advanced,Statistics,Mean-Median,mean-median
+42,Brazil,743,0,Advanced,Statistics,Distributions,distributions
+42,Brazil,174,1,Basic,Probability,Basic Probability,basic;probability
+42,Brazil,150,1,Advanced,Calculus,Integrals,integrals
+42,Brazil,307,1,Advanced,Algebra,Equations,equations
+42,Brazil,253,1,Advanced,Geometry,Triangles,triangles
+42,Brazil,312,1,Advanced,Geometry,Triangles,triangles
+42,Brazil,390,0,Advanced,Algebra,Functions,functions
+42,Brazil,667,1,Advanced,Statistics,Distributions,distributions
+42,Brazil,712,1,Advanced,Probability,Basic Probability,basic;probability
+42,Brazil,408,1,Advanced,Calculus,Integrals,integrals
+42,Brazil,801,0,Advanced,Statistics,Distributions,distributions
+42,Brazil,805,1,Advanced,Calculus,Integrals,integrals
+43,Brazil,564,1,Basic,Probability,Basic Probability,basic;probability
+43,Brazil,299,1,Basic,Algebra,Functions,functions
+43,Brazil,311,1,Advanced,Algebra,Functions,functions
+43,Brazil,809,1,Basic,Calculus,Integrals,integrals
+43,Brazil,491,0,Advanced,Geometry,Triangles,triangles
+43,Brazil,810,1,Advanced,Probability,Conditional Probability,conditional;probability
+43,Brazil,674,1,Basic,Statistics,Mean-Median,mean-median
+43,Brazil,661,1,Basic,Statistics,Mean-Median,mean-median
+43,Brazil,101,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+44,Portugal,696,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+44,Portugal,495,0,Advanced,Probability,Basic Probability,basic;probability
+44,Portugal,88,0,Advanced,Algebra,Functions,functions
+44,Portugal,467,1,Advanced,Algebra,Equations,equations
+44,Portugal,449,1,Advanced,Calculus,Integrals,integrals
+44,Portugal,830,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+44,Portugal,694,0,Advanced,Algebra,Equations,equations
+44,Portugal,339,1,Basic,Calculus,Derivatives,derivatives
+44,Portugal,415,1,Advanced,Probability,Conditional Probability,conditional;probability
+44,Portugal,756,1,Advanced,Calculus,Derivatives,derivatives
+44,Portugal,399,0,Advanced,Probability,Basic Probability,basic;probability
+45,Portugal,550,0,Basic,Statistics,Mean-Median,mean-median
+45,Portugal,117,1,Advanced,Calculus,Integrals,integrals
+45,Portugal,626,0,Advanced,Statistics,Distributions,distributions
+45,Portugal,469,1,Advanced,Geometry,Triangles,triangles
+45,Portugal,605,0,Advanced,Probability,Basic Probability,basic;probability
+45,Portugal,313,1,Advanced,Algebra,Equations,equations
+45,Portugal,524,0,Advanced,Algebra,Equations,equations
+45,Portugal,434,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+45,Portugal,502,1,Basic,Calculus,Integrals,integrals
+45,Portugal,462,1,Basic,Statistics,Mean-Median,mean-median
+45,Portugal,497,0,Advanced,Probability,Basic Probability,basic;probability
+46,Portugal,426,0,Advanced,Probability,Conditional Probability,conditional;probability
+46,Portugal,32,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+46,Portugal,551,1,Basic,Calculus,Integrals,integrals
+46,Portugal,792,0,Advanced,Statistics,Mean-Median,mean-median
+46,Portugal,557,1,Basic,Geometry,Triangles,triangles
+46,Portugal,436,1,Advanced,Statistics,Mean-Median,mean-median
+46,Portugal,34,0,Advanced,Algebra,Equations,equations
+46,Portugal,90,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+46,Portugal,756,1,Basic,Geometry,Triangles,triangles
+46,Portugal,143,1,Advanced,Probability,Conditional Probability,conditional;probability
+46,Portugal,546,0,Basic,Calculus,Derivatives,derivatives
+46,Portugal,300,0,Advanced,Statistics,Mean-Median,mean-median
+46,Portugal,769,1,Basic,Statistics,Distributions,distributions
+46,Portugal,130,0,Advanced,Geometry,Triangles,triangles
+47,Portugal,592,1,Advanced,Statistics,Mean-Median,mean-median
+47,Portugal,649,1,Advanced,Statistics,Distributions,distributions
+47,Portugal,378,0,Advanced,Algebra,Functions,functions
+47,Portugal,793,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+47,Portugal,815,0,Advanced,Algebra,Functions,functions
+47,Portugal,217,0,Basic,Probability,Conditional Probability,conditional;probability
+47,Portugal,346,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+47,Portugal,699,0,Advanced,Probability,Basic Probability,basic;probability
+47,Portugal,471,1,Basic,Algebra,Equations,equations
+47,Portugal,1,1,Basic,Algebra,Equations,equations
+48,Portugal,370,1,Advanced,Statistics,Mean-Median,mean-median
+48,Portugal,665,0,Advanced,Statistics,Mean-Median,mean-median
+48,Portugal,744,0,Advanced,Calculus,Derivatives,derivatives
+48,Portugal,2,1,Basic,Calculus,Integrals,integrals
+48,Portugal,232,1,Basic,Calculus,Integrals,integrals
+48,Portugal,352,1,Basic,Probability,Conditional Probability,conditional;probability
+48,Portugal,235,1,Basic,Algebra,Functions,functions
+48,Portugal,377,1,Basic,Geometry,Triangles,triangles
+48,Portugal,772,0,Advanced,Statistics,Mean-Median,mean-median
+48,Portugal,9,1,Basic,Calculus,Derivatives,derivatives
+49,Portugal,631,0,Basic,Statistics,Mean-Median,mean-median
+49,Portugal,144,0,Basic,Geometry,Triangles,triangles
+49,Portugal,323,0,Advanced,Algebra,Functions,functions
+49,Portugal,255,0,Advanced,Calculus,Derivatives,derivatives
+49,Portugal,675,0,Basic,Probability,Conditional Probability,conditional;probability
+49,Portugal,303,1,Basic,Statistics,Mean-Median,mean-median
+49,Portugal,247,1,Advanced,Algebra,Equations,equations
+49,Portugal,325,0,Basic,Geometry,Triangles,triangles
+49,Portugal,700,1,Advanced,Calculus,Integrals,integrals
+49,Portugal,70,1,Basic,Calculus,Integrals,integrals
+49,Portugal,62,1,Basic,Algebra,Functions,functions
+49,Portugal,412,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+49,Portugal,81,1,Advanced,Algebra,Equations,equations
+49,Portugal,401,1,Basic,Probability,Basic Probability,basic;probability
+49,Portugal,748,0,Advanced,Probability,Basic Probability,basic;probability
+50,India,624,1,Basic,Algebra,Functions,functions
+50,India,725,1,Basic,Algebra,Functions,functions
+50,India,356,1,Basic,Calculus,Derivatives,derivatives
+50,India,768,1,Basic,Probability,Conditional Probability,conditional;probability
+50,India,440,1,Basic,Statistics,Mean-Median,mean-median
+50,India,591,0,Advanced,Statistics,Mean-Median,mean-median
+50,India,57,1,Advanced,Algebra,Functions,functions
+50,India,792,1,Advanced,Geometry,Triangles,triangles
+50,India,3,1,Basic,Algebra,Equations,equations
+50,India,373,1,Basic,Algebra,Equations,equations
+50,India,37,0,Basic,Geometry,Triangles,triangles
+51,Spain,328,0,Advanced,Statistics,Mean-Median,mean-median
+51,Spain,690,1,Advanced,Statistics,Mean-Median,mean-median
+51,Spain,48,0,Basic,Algebra,Equations,equations
+51,Spain,793,0,Advanced,Geometry,Triangles,triangles
+51,Spain,9,1,Basic,Statistics,Distributions,distributions
+51,Spain,312,0,Advanced,Statistics,Mean-Median,mean-median
+51,Spain,506,0,Advanced,Probability,Basic Probability,basic;probability
+51,Spain,420,1,Basic,Calculus,Derivatives,derivatives
+51,Spain,711,0,Advanced,Algebra,Equations,equations
+51,Spain,386,1,Basic,Algebra,Functions,functions
+51,Spain,244,1,Basic,Statistics,Mean-Median,mean-median
+52,Spain,238,1,Basic,Calculus,Integrals,integrals
+52,Spain,766,1,Advanced,Probability,Conditional Probability,conditional;probability
+52,Spain,404,1,Basic,Algebra,Equations,equations
+52,Spain,134,0,Advanced,Algebra,Equations,equations
+52,Spain,821,0,Advanced,Calculus,Integrals,integrals
+52,Spain,240,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+52,Spain,599,1,Basic,Algebra,Equations,equations
+52,Spain,478,1,Basic,Algebra,Equations,equations
+53,Spain,475,1,Basic,Probability,Conditional Probability,conditional;probability
+53,Spain,703,1,Basic,Statistics,Mean-Median,mean-median
+53,Spain,336,0,Basic,Statistics,Mean-Median,mean-median
+53,Spain,406,0,Basic,Calculus,Derivatives,derivatives
+53,Spain,179,1,Advanced,Probability,Basic Probability,basic;probability
+53,Spain,564,0,Advanced,Algebra,Functions,functions
+53,Spain,813,1,Advanced,Calculus,Derivatives,derivatives
+53,Spain,800,1,Basic,Calculus,Derivatives,derivatives
+53,Spain,382,0,Basic,Calculus,Derivatives,derivatives
+54,Other,662,1,Basic,Algebra,Equations,equations
+54,Other,829,0,Basic,Geometry,Triangles,triangles
+54,Other,52,0,Basic,Statistics,Mean-Median,mean-median
+54,Other,392,1,Advanced,Calculus,Integrals,integrals
+54,Other,192,1,Advanced,Geometry,Triangles,triangles
+54,Other,36,0,Advanced,Statistics,Distributions,distributions
+54,Other,564,1,Advanced,Probability,Basic Probability,basic;probability
+54,Other,141,1,Basic,Geometry,Triangles,triangles
+54,Other,822,1,Basic,Geometry,Triangles,triangles
+54,Other,368,0,Advanced,Probability,Basic Probability,basic;probability
+54,Other,515,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+54,Other,327,1,Advanced,Statistics,Distributions,distributions
+55,Portugal,786,1,Advanced,Statistics,Mean-Median,mean-median
+55,Portugal,673,1,Basic,Probability,Basic Probability,basic;probability
+55,Portugal,225,1,Basic,Calculus,Integrals,integrals
+55,Portugal,178,0,Advanced,Probability,Conditional Probability,conditional;probability
+55,Portugal,715,0,Advanced,Calculus,Derivatives,derivatives
+55,Portugal,578,0,Advanced,Statistics,Mean-Median,mean-median
+55,Portugal,180,1,Advanced,Calculus,Derivatives,derivatives
+55,Portugal,617,1,Basic,Geometry,Triangles,triangles
+56,India,349,0,Basic,Algebra,Functions,functions
+56,India,601,1,Basic,Calculus,Integrals,integrals
+56,India,383,0,Advanced,Calculus,Derivatives,derivatives
+56,India,140,1,Advanced,Geometry,Triangles,triangles
+56,India,179,0,Advanced,Calculus,Integrals,integrals
+56,India,180,1,Basic,Probability,Conditional Probability,conditional;probability
+56,India,747,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+56,India,326,1,Basic,Algebra,Functions,functions
+56,India,145,0,Basic,Probability,Basic Probability,basic;probability
+56,India,328,1,Basic,Statistics,Mean-Median,mean-median
+56,India,272,0,Advanced,Calculus,Derivatives,derivatives
+56,India,806,1,Basic,Calculus,Derivatives,derivatives
+56,India,751,1,Basic,Algebra,Equations,equations
+56,India,388,1,Advanced,Geometry,Triangles,triangles
+56,India,808,0,Basic,Statistics,Distributions,distributions
+57,Portugal,327,1,Basic,Geometry,Triangles,triangles
+57,Portugal,385,1,Basic,Statistics,Mean-Median,mean-median
+57,Portugal,629,1,Basic,Calculus,Derivatives,derivatives
+57,Portugal,169,0,Advanced,Geometry,Triangles,triangles
+57,Portugal,340,1,Basic,Probability,Conditional Probability,conditional;probability
+57,Portugal,740,0,Advanced,Calculus,Derivatives,derivatives
+57,Portugal,99,1,Advanced,Probability,Conditional Probability,conditional;probability
+57,Portugal,370,1,Advanced,Algebra,Functions,functions
+57,Portugal,678,1,Basic,Algebra,Functions,functions
+57,Portugal,212,1,Basic,Probability,Conditional Probability,conditional;probability
+58,Brazil,483,0,Advanced,Geometry,Triangles,triangles
+58,Brazil,397,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+58,Brazil,457,0,Advanced,Calculus,Integrals,integrals
+58,Brazil,232,1,Advanced,Algebra,Functions,functions
+58,Brazil,684,1,Basic,Statistics,Mean-Median,mean-median
+58,Brazil,424,0,Advanced,Algebra,Equations,equations
+58,Brazil,536,0,Basic,Probability,Basic Probability,basic;probability
+58,Brazil,81,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+58,Brazil,776,1,Basic,Geometry,Triangles,triangles
+59,Portugal,81,1,Basic,Calculus,Derivatives,derivatives
+59,Portugal,265,0,Basic,Geometry,Triangles,triangles
+59,Portugal,407,1,Basic,Statistics,Mean-Median,mean-median
+59,Portugal,13,1,Advanced,Probability,Conditional Probability,conditional;probability
+59,Portugal,152,1,Basic,Probability,Conditional Probability,conditional;probability
+59,Portugal,104,1,Basic,Probability,Basic Probability,basic;probability
+59,Portugal,671,1,Advanced,Statistics,Distributions,distributions
+59,Portugal,413,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+59,Portugal,340,1,Basic,Calculus,Integrals,integrals
+59,Portugal,382,0,Advanced,Calculus,Derivatives,derivatives
+60,Brazil,702,0,Advanced,Statistics,Distributions,distributions
+60,Brazil,762,1,Basic,Algebra,Equations,equations
+60,Brazil,620,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+60,Brazil,417,1,Advanced,Algebra,Equations,equations
+60,Brazil,163,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+60,Brazil,537,1,Advanced,Algebra,Functions,functions
+60,Brazil,206,1,Basic,Probability,Basic Probability,basic;probability
+60,Brazil,370,1,Basic,Algebra,Equations,equations
+60,Brazil,518,0,Advanced,Calculus,Integrals,integrals
+60,Brazil,501,1,Basic,Geometry,Triangles,triangles
+60,Brazil,486,0,Basic,Probability,Conditional Probability,conditional;probability
+60,Brazil,265,1,Advanced,Probability,Conditional Probability,conditional;probability
+61,Brazil,799,0,Basic,Geometry,Triangles,triangles
+61,Brazil,276,1,Basic,Calculus,Derivatives,derivatives
+61,Brazil,136,1,Basic,Geometry,Triangles,triangles
+61,Brazil,825,1,Basic,Calculus,Derivatives,derivatives
+61,Brazil,358,0,Advanced,Statistics,Distributions,distributions
+61,Brazil,694,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+61,Brazil,679,1,Basic,Probability,Conditional Probability,conditional;probability
+61,Brazil,494,0,Advanced,Statistics,Distributions,distributions
+62,Brazil,668,0,Advanced,Statistics,Distributions,distributions
+62,Brazil,247,1,Basic,Statistics,Mean-Median,mean-median
+62,Brazil,739,0,Advanced,Algebra,Functions,functions
+62,Brazil,429,1,Advanced,Algebra,Functions,functions
+62,Brazil,586,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+62,Brazil,654,1,Basic,Calculus,Integrals,integrals
+62,Brazil,674,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+62,Brazil,132,1,Advanced,Probability,Basic Probability,basic;probability
+62,Brazil,228,0,Advanced,Statistics,Mean-Median,mean-median
+62,Brazil,340,1,Advanced,Statistics,Mean-Median,mean-median
+62,Brazil,121,1,Advanced,Statistics,Distributions,distributions
+62,Brazil,200,1,Basic,Geometry,Triangles,triangles
+63,India,155,1,Advanced,Probability,Conditional Probability,conditional;probability
+63,India,584,1,Advanced,Calculus,Derivatives,derivatives
+63,India,185,0,Advanced,Geometry,Triangles,triangles
+63,India,182,0,Advanced,Algebra,Functions,functions
+63,India,215,1,Basic,Statistics,Mean-Median,mean-median
+63,India,799,0,Advanced,Calculus,Derivatives,derivatives
+63,India,414,0,Advanced,Algebra,Equations,equations
+63,India,547,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+63,India,776,0,Basic,Calculus,Integrals,integrals
+63,India,642,0,Basic,Probability,Basic Probability,basic;probability
+63,India,106,1,Advanced,Calculus,Derivatives,derivatives
+63,India,47,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+63,India,611,0,Advanced,Statistics,Distributions,distributions
+63,India,138,0,Advanced,Probability,Conditional Probability,conditional;probability
+64,Spain,230,1,Advanced,Calculus,Derivatives,derivatives
+64,Spain,174,1,Basic,Calculus,Derivatives,derivatives
+64,Spain,656,1,Basic,Algebra,Functions,functions
+64,Spain,670,0,Basic,Statistics,Mean-Median,mean-median
+64,Spain,390,1,Basic,Algebra,Equations,equations
+64,Spain,211,0,Advanced,Algebra,Functions,functions
+64,Spain,679,0,Advanced,Algebra,Functions,functions
+64,Spain,108,1,Basic,Probability,Conditional Probability,conditional;probability
+64,Spain,109,1,Advanced,Probability,Basic Probability,basic;probability
+64,Spain,536,1,Basic,Geometry,Triangles,triangles
+64,Spain,41,1,Advanced,Calculus,Integrals,integrals
+64,Spain,493,1,Basic,Probability,Conditional Probability,conditional;probability
+64,Spain,92,1,Basic,Statistics,Mean-Median,mean-median
+65,Other,104,1,Basic,Calculus,Derivatives,derivatives
+65,Other,304,0,Advanced,Statistics,Mean-Median,mean-median
+65,Other,179,1,Basic,Statistics,Distributions,distributions
+65,Other,321,0,Advanced,Algebra,Functions,functions
+65,Other,47,0,Basic,Geometry,Triangles,triangles
+65,Other,449,1,Basic,Algebra,Equations,equations
+65,Other,351,1,Basic,Probability,Conditional Probability,conditional;probability
+65,Other,468,1,Advanced,Calculus,Derivatives,derivatives
+65,Other,665,0,Advanced,Statistics,Distributions,distributions
+65,Other,61,1,Basic,Calculus,Derivatives,derivatives
+65,Other,495,0,Advanced,Calculus,Derivatives,derivatives
+65,Other,798,1,Basic,Probability,Conditional Probability,conditional;probability
+65,Other,500,1,Basic,Statistics,Mean-Median,mean-median
+65,Other,268,1,Advanced,Algebra,Functions,functions
+65,Other,686,0,Basic,Statistics,Mean-Median,mean-median
+66,Other,693,1,Advanced,Geometry,Triangles,triangles
+66,Other,161,1,Basic,Geometry,Triangles,triangles
+66,Other,77,0,Advanced,Probability,Conditional Probability,conditional;probability
+66,Other,285,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+66,Other,241,1,Advanced,Algebra,Equations,equations
+66,Other,459,0,Advanced,Algebra,Functions,functions
+66,Other,510,1,Advanced,Algebra,Functions,functions
+66,Other,571,1,Advanced,Algebra,Equations,equations
+66,Other,634,0,Basic,Probability,Basic Probability,basic;probability
+67,Other,229,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+67,Other,373,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+67,Other,228,1,Basic,Geometry,Triangles,triangles
+67,Other,820,0,Advanced,Algebra,Functions,functions
+67,Other,169,1,Basic,Statistics,Distributions,distributions
+67,Other,626,1,Advanced,Geometry,Triangles,triangles
+67,Other,403,0,Basic,Calculus,Derivatives,derivatives
+67,Other,111,1,Basic,Calculus,Integrals,integrals
+67,Other,462,1,Basic,Geometry,Triangles,triangles
+67,Other,754,1,Advanced,Geometry,Triangles,triangles
+67,Other,800,0,Advanced,Algebra,Functions,functions
+68,Other,621,0,Advanced,Calculus,Derivatives,derivatives
+68,Other,710,0,Advanced,Statistics,Distributions,distributions
+68,Other,302,0,Advanced,Calculus,Integrals,integrals
+68,Other,717,1,Basic,Geometry,Triangles,triangles
+68,Other,567,0,Advanced,Probability,Conditional Probability,conditional;probability
+68,Other,298,0,Basic,Calculus,Derivatives,derivatives
+68,Other,711,1,Basic,Statistics,Mean-Median,mean-median
+68,Other,597,0,Advanced,Statistics,Mean-Median,mean-median
+68,Other,433,0,Advanced,Probability,Conditional Probability,conditional;probability
+68,Other,55,1,Basic,Algebra,Equations,equations
+69,Portugal,64,1,Advanced,Calculus,Integrals,integrals
+69,Portugal,464,1,Basic,Statistics,Mean-Median,mean-median
+69,Portugal,804,1,Advanced,Algebra,Equations,equations
+69,Portugal,808,1,Advanced,Statistics,Mean-Median,mean-median
+69,Portugal,208,1,Basic,Statistics,Mean-Median,mean-median
+69,Portugal,722,0,Basic,Probability,Conditional Probability,conditional;probability
+69,Portugal,182,1,Basic,Statistics,Mean-Median,mean-median
+69,Portugal,123,0,Basic,Algebra,Equations,equations
+69,Portugal,271,1,Advanced,Geometry,Triangles,triangles
+69,Portugal,478,1,Advanced,Calculus,Derivatives,derivatives
+69,Portugal,612,0,Basic,Calculus,Derivatives,derivatives
+69,Portugal,564,0,Advanced,Algebra,Functions,functions
+70,India,806,1,Basic,Probability,Basic Probability,basic;probability
+70,India,414,1,Advanced,Probability,Basic Probability,basic;probability
+70,India,680,0,Basic,Algebra,Functions,functions
+70,India,771,1,Advanced,Statistics,Distributions,distributions
+70,India,355,1,Basic,Probability,Conditional Probability,conditional;probability
+70,India,699,0,Basic,Geometry,Triangles,triangles
+70,India,554,1,Basic,Statistics,Distributions,distributions
+70,India,521,0,Advanced,Statistics,Mean-Median,mean-median
+70,India,668,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+70,India,172,0,Basic,Calculus,Integrals,integrals
+70,India,645,1,Basic,Probability,Basic Probability,basic;probability
+70,India,720,1,Basic,Calculus,Integrals,integrals
+70,India,735,1,Basic,Geometry,Triangles,triangles
+71,India,572,0,Basic,Algebra,Equations,equations
+71,India,462,1,Advanced,Algebra,Equations,equations
+71,India,690,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+71,India,600,1,Basic,Algebra,Equations,equations
+71,India,109,0,Advanced,Algebra,Equations,equations
+71,India,449,1,Basic,Statistics,Distributions,distributions
+71,India,547,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+71,India,559,0,Advanced,Calculus,Derivatives,derivatives
+71,India,815,0,Advanced,Statistics,Mean-Median,mean-median
+72,India,404,1,Basic,Algebra,Equations,equations
+72,India,760,1,Advanced,Probability,Basic Probability,basic;probability
+72,India,525,0,Advanced,Statistics,Mean-Median,mean-median
+72,India,259,1,Basic,Calculus,Derivatives,derivatives
+72,India,581,1,Basic,Calculus,Derivatives,derivatives
+72,India,69,1,Basic,Algebra,Functions,functions
+72,India,499,0,Basic,Statistics,Mean-Median,mean-median
+72,India,241,0,Basic,Statistics,Distributions,distributions
+72,India,326,0,Basic,Algebra,Functions,functions
+72,India,314,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+73,Portugal,253,1,Basic,Statistics,Distributions,distributions
+73,Portugal,138,0,Advanced,Calculus,Integrals,integrals
+73,Portugal,794,1,Advanced,Statistics,Distributions,distributions
+73,Portugal,622,1,Basic,Statistics,Distributions,distributions
+73,Portugal,202,0,Basic,Algebra,Functions,functions
+73,Portugal,520,0,Basic,Statistics,Mean-Median,mean-median
+73,Portugal,565,0,Basic,Algebra,Functions,functions
+73,Portugal,229,1,Basic,Statistics,Distributions,distributions
+73,Portugal,523,1,Basic,Probability,Conditional Probability,conditional;probability
+73,Portugal,679,1,Advanced,Algebra,Functions,functions
+73,Portugal,184,1,Basic,Calculus,Derivatives,derivatives
+73,Portugal,42,0,Advanced,Probability,Basic Probability,basic;probability
+73,Portugal,379,1,Basic,Calculus,Integrals,integrals
+74,India,466,1,Advanced,Probability,Conditional Probability,conditional;probability
+74,India,534,1,Advanced,Algebra,Equations,equations
+74,India,388,1,Basic,Statistics,Distributions,distributions
+74,India,229,1,Advanced,Statistics,Mean-Median,mean-median
+74,India,354,0,Advanced,Probability,Conditional Probability,conditional;probability
+74,India,143,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+74,India,659,1,Basic,Geometry,Triangles,triangles
+74,India,371,1,Basic,Statistics,Mean-Median,mean-median
+74,India,339,1,Basic,Probability,Basic Probability,basic;probability
+74,India,605,1,Advanced,Algebra,Functions,functions
+74,India,131,1,Basic,Calculus,Integrals,integrals
+75,Other,265,1,Basic,Calculus,Derivatives,derivatives
+75,Other,746,0,Basic,Calculus,Integrals,integrals
+75,Other,483,1,Basic,Statistics,Mean-Median,mean-median
+75,Other,616,0,Basic,Geometry,Triangles,triangles
+75,Other,703,1,Advanced,Calculus,Derivatives,derivatives
+75,Other,395,1,Basic,Statistics,Distributions,distributions
+75,Other,517,1,Basic,Calculus,Derivatives,derivatives
+75,Other,630,1,Basic,Geometry,Triangles,triangles
+75,Other,676,1,Basic,Probability,Basic Probability,basic;probability
+75,Other,380,1,Advanced,Calculus,Derivatives,derivatives
+76,Other,824,1,Advanced,Calculus,Integrals,integrals
+76,Other,489,1,Advanced,Probability,Basic Probability,basic;probability
+76,Other,557,0,Advanced,Calculus,Derivatives,derivatives
+76,Other,762,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+76,Other,211,1,Basic,Algebra,Equations,equations
+76,Other,437,1,Advanced,Statistics,Distributions,distributions
+76,Other,434,0,Advanced,Probability,Conditional Probability,conditional;probability
+76,Other,407,0,Advanced,Probability,Conditional Probability,conditional;probability
+76,Other,573,1,Advanced,Calculus,Integrals,integrals
+76,Other,592,0,Advanced,Probability,Conditional Probability,conditional;probability
+76,Other,676,0,Basic,Statistics,Distributions,distributions
+76,Other,166,0,Advanced,Algebra,Equations,equations
+76,Other,821,0,Advanced,Algebra,Equations,equations
+76,Other,652,1,Basic,Probability,Basic Probability,basic;probability
+77,India,228,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+77,India,411,1,Basic,Statistics,Mean-Median,mean-median
+77,India,180,0,Basic,Probability,Conditional Probability,conditional;probability
+77,India,673,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+77,India,614,1,Basic,Probability,Conditional Probability,conditional;probability
+77,India,369,1,Basic,Probability,Basic Probability,basic;probability
+77,India,283,1,Basic,Calculus,Derivatives,derivatives
+77,India,206,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+77,India,563,0,Basic,Probability,Basic Probability,basic;probability
+77,India,284,0,Advanced,Statistics,Distributions,distributions
+78,Other,417,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+78,Other,349,1,Basic,Probability,Basic Probability,basic;probability
+78,Other,387,0,Advanced,Algebra,Functions,functions
+78,Other,795,1,Basic,Probability,Conditional Probability,conditional;probability
+78,Other,265,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+78,Other,236,1,Basic,Algebra,Functions,functions
+78,Other,10,1,Advanced,Statistics,Distributions,distributions
+78,Other,690,1,Advanced,Statistics,Mean-Median,mean-median
+78,Other,363,1,Basic,Statistics,Mean-Median,mean-median
+78,Other,700,0,Basic,Calculus,Integrals,integrals
+78,Other,248,1,Basic,Calculus,Integrals,integrals
+79,Portugal,110,1,Advanced,Calculus,Derivatives,derivatives
+79,Portugal,783,0,Advanced,Algebra,Equations,equations
+79,Portugal,323,1,Advanced,Probability,Basic Probability,basic;probability
+79,Portugal,783,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+79,Portugal,591,1,Advanced,Probability,Conditional Probability,conditional;probability
+79,Portugal,554,1,Advanced,Calculus,Derivatives,derivatives
+79,Portugal,795,0,Advanced,Algebra,Functions,functions
+79,Portugal,472,1,Basic,Calculus,Integrals,integrals
+79,Portugal,389,0,Basic,Statistics,Mean-Median,mean-median
+79,Portugal,266,1,Advanced,Probability,Basic Probability,basic;probability
+79,Portugal,628,1,Basic,Calculus,Integrals,integrals
+80,Brazil,771,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+80,Brazil,185,1,Advanced,Statistics,Distributions,distributions
+80,Brazil,739,0,Basic,Probability,Basic Probability,basic;probability
+80,Brazil,201,0,Advanced,Statistics,Mean-Median,mean-median
+80,Brazil,181,0,Advanced,Calculus,Derivatives,derivatives
+80,Brazil,646,0,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+80,Brazil,576,1,Advanced,Probability,Conditional Probability,conditional;probability
+80,Brazil,168,1,Advanced,Probability,Basic Probability,basic;probability
+80,Brazil,645,1,Advanced,Algebra,Equations,equations
+80,Brazil,369,1,Advanced,Algebra,Functions,functions
+81,Other,696,1,Advanced,Statistics,Mean-Median,mean-median
+81,Other,292,0,Basic,Probability,Basic Probability,basic;probability
+81,Other,458,0,Advanced,Statistics,Distributions,distributions
+81,Other,149,1,Advanced,Algebra,Functions,functions
+81,Other,586,0,Advanced,Calculus,Integrals,integrals
+81,Other,234,1,Basic,Geometry,Triangles,triangles
+81,Other,620,0,Advanced,Statistics,Distributions,distributions
+81,Other,372,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+81,Other,24,1,Advanced,Probability,Conditional Probability,conditional;probability
+81,Other,718,0,Advanced,Calculus,Derivatives,derivatives
+81,Other,98,1,Basic,Algebra,Equations,equations
+81,Other,407,1,Basic,Algebra,Functions,functions
+82,India,400,1,Basic,Statistics,Mean-Median,mean-median
+82,India,454,1,Basic,Statistics,Mean-Median,mean-median
+82,India,680,1,Basic,Calculus,Derivatives,derivatives
+82,India,554,1,Advanced,Statistics,Distributions,distributions
+82,India,715,0,Basic,Statistics,Distributions,distributions
+82,India,652,0,Advanced,Probability,Basic Probability,basic;probability
+82,India,494,0,Advanced,Probability,Conditional Probability,conditional;probability
+82,India,375,1,Basic,Probability,Basic Probability,basic;probability
+82,India,1,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+83,Portugal,504,1,Basic,Statistics,Distributions,distributions
+83,Portugal,818,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+83,Portugal,194,1,Basic,Statistics,Mean-Median,mean-median
+83,Portugal,733,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+83,Portugal,433,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+83,Portugal,545,0,Advanced,Calculus,Integrals,integrals
+83,Portugal,187,0,Basic,Statistics,Distributions,distributions
+83,Portugal,633,1,Basic,Calculus,Integrals,integrals
+83,Portugal,20,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+83,Portugal,105,1,Basic,Calculus,Derivatives,derivatives
+83,Portugal,745,1,Basic,Statistics,Distributions,distributions
+83,Portugal,506,1,Basic,Algebra,Equations,equations
+83,Portugal,819,1,Advanced,Calculus,Integrals,integrals
+84,Brazil,150,0,Basic,Algebra,Functions,functions
+84,Brazil,482,1,Advanced,Algebra,Functions,functions
+84,Brazil,13,0,Advanced,Calculus,Derivatives,derivatives
+84,Brazil,454,0,Advanced,Algebra,Equations,equations
+84,Brazil,790,1,Basic,Calculus,Derivatives,derivatives
+84,Brazil,320,1,Advanced,Algebra,Equations,equations
+84,Brazil,563,1,Basic,Statistics,Mean-Median,mean-median
+84,Brazil,306,1,Advanced,Probability,Basic Probability,basic;probability
+84,Brazil,224,0,Basic,Calculus,Integrals,integrals
+84,Brazil,172,1,Advanced,Algebra,Equations,equations
+84,Brazil,10,0,Advanced,Statistics,Mean-Median,mean-median
+84,Brazil,92,1,Basic,Algebra,Functions,functions
+84,Brazil,634,1,Advanced,Calculus,Derivatives,derivatives
+84,Brazil,158,1,Basic,Statistics,Mean-Median,mean-median
+84,Brazil,325,1,Basic,Probability,Basic Probability,basic;probability
+85,Brazil,138,1,Advanced,Calculus,Derivatives,derivatives
+85,Brazil,573,0,Advanced,Statistics,Mean-Median,mean-median
+85,Brazil,557,1,Basic,Statistics,Distributions,distributions
+85,Brazil,614,1,Advanced,Statistics,Distributions,distributions
+85,Brazil,461,1,Basic,Probability,Basic Probability,basic;probability
+85,Brazil,795,1,Advanced,Statistics,Distributions,distributions
+85,Brazil,635,0,Basic,Probability,Conditional Probability,conditional;probability
+85,Brazil,675,0,Advanced,Statistics,Mean-Median,mean-median
+85,Brazil,510,1,Basic,Probability,Conditional Probability,conditional;probability
+85,Brazil,657,1,Advanced,Probability,Basic Probability,basic;probability
+85,Brazil,69,1,Basic,Statistics,Mean-Median,mean-median
+85,Brazil,207,0,Basic,Algebra,Equations,equations
+85,Brazil,585,1,Basic,Algebra,Functions,functions
+85,Brazil,227,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+85,Brazil,214,0,Basic,Probability,Basic Probability,basic;probability
+86,India,814,0,Advanced,Algebra,Functions,functions
+86,India,312,1,Basic,Algebra,Functions,functions
+86,India,237,1,Basic,Algebra,Equations,equations
+86,India,673,1,Basic,Probability,Conditional Probability,conditional;probability
+86,India,785,0,Advanced,Calculus,Derivatives,derivatives
+86,India,438,0,Advanced,Probability,Conditional Probability,conditional;probability
+86,India,517,1,Basic,Algebra,Equations,equations
+86,India,323,0,Advanced,Statistics,Mean-Median,mean-median
+86,India,649,1,Advanced,Probability,Conditional Probability,conditional;probability
+86,India,220,0,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+86,India,459,0,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+86,India,611,0,Basic,Geometry,Triangles,triangles
+86,India,228,1,Advanced,Algebra,Equations,equations
+86,India,707,1,Basic,Calculus,Integrals,integrals
+86,India,365,1,Basic,Statistics,Mean-Median,mean-median
+87,Portugal,308,1,Basic,Statistics,Mean-Median,mean-median
+87,Portugal,741,1,Basic,Algebra,Functions,functions
+87,Portugal,707,1,Basic,Statistics,Distributions,distributions
+87,Portugal,828,1,Advanced,Probability,Basic Probability,basic;probability
+87,Portugal,790,0,Basic,Probability,Conditional Probability,conditional;probability
+87,Portugal,124,1,Advanced,Statistics,Distributions,distributions
+87,Portugal,537,1,Advanced,Calculus,Derivatives,derivatives
+87,Portugal,715,1,Basic,Algebra,Functions,functions
+87,Portugal,403,0,Basic,Calculus,Derivatives,derivatives
+87,Portugal,806,1,Basic,Geometry,Triangles,triangles
+87,Portugal,488,1,Basic,Geometry,Triangles,triangles
+87,Portugal,409,1,Advanced,Probability,Basic Probability,basic;probability
+88,Spain,668,1,Basic,Calculus,Integrals,integrals
+88,Spain,273,1,Basic,Probability,Basic Probability,basic;probability
+88,Spain,424,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+88,Spain,353,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+88,Spain,359,1,Advanced,Probability,Basic Probability,basic;probability
+88,Spain,240,1,Basic,Probability,Conditional Probability,conditional;probability
+88,Spain,88,1,Basic,Calculus,Integrals,integrals
+88,Spain,152,0,Basic,Algebra,Equations,equations
+88,Spain,114,0,Advanced,Statistics,Mean-Median,mean-median
+88,Spain,215,1,Advanced,Statistics,Distributions,distributions
+89,Portugal,145,0,Advanced,Probability,Conditional Probability,conditional;probability
+89,Portugal,62,1,Basic,Algebra,Functions,functions
+89,Portugal,671,1,Advanced,Statistics,Mean-Median,mean-median
+89,Portugal,679,0,Advanced,Algebra,Equations,equations
+89,Portugal,665,1,Basic,Statistics,Mean-Median,mean-median
+89,Portugal,727,1,Advanced,Geometry,Triangles,triangles
+89,Portugal,545,0,Advanced,Algebra,Functions,functions
+89,Portugal,469,1,Basic,Algebra,Equations,equations
+89,Portugal,543,1,Basic,Probability,Basic Probability,basic;probability
+89,Portugal,161,1,Advanced,Statistics,Distributions,distributions
+89,Portugal,310,1,Advanced,Algebra,Functions,functions
+90,Other,31,0,Advanced,Algebra,Functions,functions
+90,Other,403,1,Basic,Probability,Conditional Probability,conditional;probability
+90,Other,695,0,Advanced,Calculus,Derivatives,derivatives
+90,Other,157,1,Advanced,Probability,Basic Probability,basic;probability
+90,Other,135,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+90,Other,317,0,Basic,Calculus,Derivatives,derivatives
+90,Other,789,0,Advanced,Probability,Basic Probability,basic;probability
+90,Other,546,1,Advanced,Calculus,Derivatives,derivatives
+90,Other,150,0,Advanced,Algebra,Equations,equations
+90,Other,311,0,Advanced,Algebra,Functions,functions
+90,Other,110,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+90,Other,627,0,Basic,Calculus,Derivatives,derivatives
+91,Brazil,368,0,Basic,Probability,Basic Probability,basic;probability
+91,Brazil,620,1,Basic,Algebra,Functions,functions
+91,Brazil,504,0,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+91,Brazil,34,1,Basic,Geometry,Triangles,triangles
+91,Brazil,228,0,Advanced,Geometry,Triangles,triangles
+91,Brazil,450,1,Basic,Calculus,Derivatives,derivatives
+91,Brazil,253,0,Advanced,Probability,Conditional Probability,conditional;probability
+91,Brazil,390,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+91,Brazil,463,1,Basic,Statistics,Distributions,distributions
+91,Brazil,406,1,Basic,Geometry,Triangles,triangles
+91,Brazil,451,1,Basic,Algebra,Functions,functions
+92,Brazil,56,1,Advanced,Geometry,Triangles,triangles
+92,Brazil,463,0,Advanced,Probability,Basic Probability,basic;probability
+92,Brazil,713,1,Basic,Algebra,Equations,equations
+92,Brazil,462,1,Advanced,Probability,Basic Probability,basic;probability
+92,Brazil,730,0,Advanced,Algebra,Equations,equations
+92,Brazil,709,1,Basic,Calculus,Integrals,integrals
+92,Brazil,461,1,Basic,Calculus,Derivatives,derivatives
+92,Brazil,524,0,Advanced,Statistics,Mean-Median,mean-median
+92,Brazil,45,0,Advanced,Probability,Basic Probability,basic;probability
+92,Brazil,149,1,Basic,Calculus,Integrals,integrals
+92,Brazil,748,1,Advanced,Calculus,Derivatives,derivatives
+92,Brazil,135,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+93,India,557,0,Advanced,Algebra,Functions,functions
+93,India,676,1,Basic,Algebra,Functions,functions
+93,India,616,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+93,India,285,0,Basic,Probability,Basic Probability,basic;probability
+93,India,57,1,Basic,Probability,Basic Probability,basic;probability
+93,India,684,0,Basic,Statistics,Mean-Median,mean-median
+93,India,51,0,Advanced,Probability,Conditional Probability,conditional;probability
+93,India,292,1,Basic,Algebra,Functions,functions
+93,India,369,0,Advanced,Probability,Basic Probability,basic;probability
+93,India,389,1,Advanced,Algebra,Equations,equations
+93,India,138,1,Basic,Algebra,Functions,functions
+93,India,538,1,Advanced,Algebra,Functions,functions
+94,Portugal,620,0,Advanced,Algebra,Equations,equations
+94,Portugal,589,1,Advanced,Statistics,Distributions,distributions
+94,Portugal,509,1,Basic,Probability,Conditional Probability,conditional;probability
+94,Portugal,625,0,Advanced,Probability,Conditional Probability,conditional;probability
+94,Portugal,25,1,Basic,Calculus,Integrals,integrals
+94,Portugal,425,0,Basic,Geometry,Triangles,triangles
+94,Portugal,826,1,Advanced,Geometry,Triangles,triangles
+94,Portugal,261,0,Basic,Calculus,Derivatives,derivatives
+95,Brazil,342,1,Basic,Probability,Conditional Probability,conditional;probability
+95,Brazil,199,0,Basic,Statistics,Distributions,distributions
+95,Brazil,817,0,Advanced,Statistics,Distributions,distributions
+95,Brazil,472,1,Advanced,Algebra,Equations,equations
+95,Brazil,424,0,Advanced,Probability,Conditional Probability,conditional;probability
+95,Brazil,20,0,Advanced,Algebra,Functions,functions
+95,Brazil,153,1,Advanced,Calculus,Integrals,integrals
+95,Brazil,642,0,Advanced,Statistics,Mean-Median,mean-median
+95,Brazil,120,1,Advanced,Probability,Basic Probability,basic;probability
+95,Brazil,89,1,Basic,Statistics,Distributions,distributions
+95,Brazil,310,1,Advanced,Geometry,Triangles,triangles
+95,Brazil,804,1,Basic,Calculus,Integrals,integrals
+96,Portugal,158,0,Advanced,Geometry,Triangles,triangles
+96,Portugal,537,0,Advanced,Calculus,Integrals,integrals
+96,Portugal,101,1,Basic,Statistics,Distributions,distributions
+96,Portugal,471,1,Basic,Probability,Basic Probability,basic;probability
+96,Portugal,46,1,Basic,Geometry,Triangles,triangles
+96,Portugal,48,1,Advanced,Probability,Basic Probability,basic;probability
+96,Portugal,320,0,Basic,Algebra,Functions,functions
+96,Portugal,284,1,Basic,Calculus,Integrals,integrals
+96,Portugal,280,0,Advanced,Probability,Conditional Probability,conditional;probability
+97,Portugal,359,1,Basic,Algebra,Equations,equations
+97,Portugal,722,1,Advanced,Probability,Conditional Probability,conditional;probability
+97,Portugal,628,1,Basic,Statistics,Mean-Median,mean-median
+97,Portugal,483,1,Basic,Statistics,Distributions,distributions
+97,Portugal,437,1,Advanced,Algebra,Equations,equations
+97,Portugal,320,0,Advanced,Geometry,Triangles,triangles
+97,Portugal,774,0,Basic,Statistics,Mean-Median,mean-median
+97,Portugal,716,0,Basic,Geometry,Triangles,triangles
+97,Portugal,660,1,Advanced,Geometry,Triangles,triangles
+97,Portugal,148,0,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+97,Portugal,717,1,Advanced,Probability,Conditional Probability,conditional;probability
+97,Portugal,67,1,Advanced,Statistics,Distributions,distributions
+98,India,357,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+98,India,732,1,Basic,Probability,Basic Probability,basic;probability
+98,India,546,0,Basic,Algebra,Functions,functions
+98,India,250,1,Advanced,Geometry,Coordinate Geometry,coordinate;geometry
+98,India,349,1,Advanced,Probability,Basic Probability,basic;probability
+98,India,351,0,Advanced,Calculus,Integrals,integrals
+98,India,80,1,Basic,Probability,Basic Probability,basic;probability
+98,India,475,1,Basic,Probability,Conditional Probability,conditional;probability
+98,India,416,1,Advanced,Statistics,Mean-Median,mean-median
+98,India,661,1,Advanced,Algebra,Equations,equations
+98,India,595,0,Basic,Algebra,Equations,equations
+98,India,299,1,Basic,Algebra,Equations,equations
+98,India,325,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+99,Other,627,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+99,Other,64,0,Basic,Probability,Conditional Probability,conditional;probability
+99,Other,368,0,Basic,Statistics,Mean-Median,mean-median
+99,Other,720,1,Basic,Algebra,Functions,functions
+99,Other,416,0,Advanced,Probability,Conditional Probability,conditional;probability
+99,Other,487,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+99,Other,369,0,Advanced,Calculus,Derivatives,derivatives
+99,Other,687,0,Advanced,Geometry,Triangles,triangles
+99,Other,17,1,Basic,Calculus,Derivatives,derivatives
+99,Other,140,0,Advanced,Calculus,Integrals,integrals
+99,Other,808,0,Advanced,Algebra,Equations,equations
+99,Other,435,1,Basic,Probability,Conditional Probability,conditional;probability
+100,Spain,8,1,Basic,Statistics,Mean-Median,mean-median
+100,Spain,276,0,Basic,Probability,Conditional Probability,conditional;probability
+100,Spain,582,0,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+100,Spain,708,1,Basic,Geometry,Coordinate Geometry,coordinate;geometry
+100,Spain,81,1,Advanced,Algebra,Equations,equations
+100,Spain,760,1,Basic,Probability,Basic Probability,basic;probability
+100,Spain,548,0,Basic,Algebra,Functions,functions
+100,Spain,481,1,Advanced,Algebra,Functions,functions
+100,Spain,818,0,Advanced,Probability,Conditional Probability,conditional;probability
+100,Spain,612,1,Basic,Statistics,Distributions,distributions
+100,Spain,593,1,Basic,Statistics,Distributions,distributions
+100,Spain,640,0,Advanced,Calculus,Derivatives,derivatives
+100,Spain,518,1,Advanced,Algebra,Functions,functions
+100,Spain,288,1,Advanced,Algebra,Functions,functions
